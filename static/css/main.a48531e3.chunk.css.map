@@ -1,1 +1,0 @@
-{"version":3,"sources":["Carousel.css"],"names":[],"mappings":"AAAA,UAEE,WAAY,CACZ,eACF,CAEA,iBACE,YAGF","file":"main.a48531e3.chunk.css","sourcesContent":[".carousel {\n  /*border: 1px solid black;*/\n  margin: auto;\n  overflow: hidden;\n}\n\n.carousel_slider {\n  display: flex;\n  /*overflow: hidden;*/\n  /*border: 1px solid black;*/\n}\n"]}
